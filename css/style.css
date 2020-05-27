@@ -391,9 +391,10 @@ table td {
 /*** Media Query ***/
 @media(max-width: 1270px){
     #showcase{
-        background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)
+        /* background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)
         ),
-        url(/img/bg3.jpg) no-repeat 0px 0px;
+        url(/img/bg3.jpg) no-repeat 0px 0px; */
+        background: url('../img/bg3.jpg') no-repeat 0 -150px;
         background-size: cover;
     }
 
