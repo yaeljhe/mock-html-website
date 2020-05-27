@@ -138,9 +138,10 @@ header a:hover {
 #showcase {
     min-height: 550px;
     /* background: url('../img/bg3.jpg') no-repeat 0 -150px;  0 = x-axis -600px moves image up*/
-    background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)
+    /* background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)
         ),
-        url(/img/bg3.jpg) no-repeat 0px 0px;
+        url(/img/bg3.jpg) no-repeat 0px 0px; */
+    background:url('../img/bg3.jpg') no-repeat 0 -150px;;
     background-size: cover;
     text-align: center;
     color: #f4f4f4;
