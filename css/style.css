@@ -141,7 +141,7 @@ header a:hover {
     /* background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2)
         ),
         url(/img/bg3.jpg) no-repeat 0px 0px; */
-    background:url('../img/bg3.jpg') no-repeat 0 -150px;;
+    background:url('../img/bg3.jpg') no-repeat 0 -150px;
     background-size: cover;
     text-align: center;
     color: #f4f4f4;
